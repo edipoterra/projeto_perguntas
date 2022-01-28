@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Flutter project to learn how to use framework and language dart
 
 ## Getting Started
 
